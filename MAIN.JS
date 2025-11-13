@@ -4,35 +4,35 @@ const events = [
         type: "Keynote",
         date: "2025-11-20T09:00:00",
         description: "Join industry visionary Dr. Evelyn Reed as she unveils the next decade of AI innovation.",
-        image: "images/keynote.jpg"
+        image: "1650990.jpg"
     },
     {
         title: "Advanced JavaScript Workshop",
         type: "Workshop",
         date: "2025-11-20T10:30:00",
         description: "A 3-hour, hands-on deep-dive into asynchronous JavaScript, Promises, and modern ES6+ features.",
-        image: "images/workshop-js.jpg"
+        image: "1650990.jpg "
     },
     {
         title: "Cybersecurity in the Cloud Era",
         type: "Talk",
         date: "2025-11-20T11:00:00",
         description: "Explore the evolving landscape of cloud security threats and proactive defense strategies.",
-        image: "images/cybersecurity.jpg"
+        image: "1650990.jpg "
     },
     {
         title: "Introduction to Quantum Computing",
         type: "Talk",
         date: "2025-11-20T14:00:00",
         description: "A beginner-friendly overview of quantum mechanics and its potential to revolutionize computing.",
-        image: "images/quantum.jpg"
+        image: "1650990.jpg "
     },
     {
         title: "Networking Mixer & Welcome Reception",
         type: "Social",
         date: "2025-11-20T17:00:00",
         description: "Connect with fellow attendees, speakers, and sponsors over drinks and appetizers.",
-        image: "images/mixer.jpg"
+        image: " 1650990.jpg"
     },
 
     {
@@ -40,21 +40,21 @@ const events = [
         type: "Talk",
         date: "2025-11-21T09:30:00",
         description: "A critical discussion on the societal impact and ethical responsibilities in ML development.",
-        image: "images/ethics.jpg"
+        image: " 1650990.jpg"
     },
     {
         title: "Building Scalable Web Apps with Microservices",
         type: "Talk",
         date: "2025-11-21T10:30:00",
         description: "Learn the principles of microservices from lead engineers at a top tech company.",
-        image: "images/scalable.jpg"
+        image: " OIP.webp"
     },
     {
         title: "Mastering React Performance",
         type: "Workshop",
         date: "2025-11-21T13:00:00",
         description: "Optimize your React applications by learning memoization, code splitting, and bundle analysis.",
-        image: "images/react.jpg"
+        image: " OIP.webp"
     },
     {
         title: "The Psychology of User Experience (UX)",
